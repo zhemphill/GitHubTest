@@ -1,0 +1,13 @@
+HEADERS
+Content-Type:application/json
+HTTP-X-PARTNER-AUTH:<site_name>:<api_key>
+BODY
+     {
+       "data" : {
+           "dashboard_id": 1234,
+
+
+
+           "dashboard_ts":  1446069112
+       }
+}
